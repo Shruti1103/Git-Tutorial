@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Floydtriangle",
+            "request": "launch",
+            "mainClass": "Floydtriangle",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "Reversenumber",
+            "request": "launch",
+            "mainClass": "Reversenumber",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "Reverseumber",
+            "request": "launch",
+            "mainClass": "Reverseumber",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "Numberpattern",
+            "request": "launch",
+            "mainClass": "Numberpattern",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "ReverseT",
+            "request": "launch",
+            "mainClass": "ReverseT",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "MirrorT",
+            "request": "launch",
+            "mainClass": "MirrorT",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "RightT",
+            "request": "launch",
+            "mainClass": "RightT",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "HollowRect",
+            "request": "launch",
+            "mainClass": "HollowRect",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "RightTriangle",
+            "request": "launch",
+            "mainClass": "RightTriangle",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "Solid",
+            "request": "launch",
+            "mainClass": "Solid",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "Git_79062b38"
+        },
+        {
+            "type": "java",
+            "name": "Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "Git_79062b38"
+        }
+    ]
+}
